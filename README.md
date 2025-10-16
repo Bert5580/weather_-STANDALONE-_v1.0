@@ -1,4 +1,4 @@
-# weather (Standalone)
+# weather (Standalone) v1.0
 
 Lightweight, optimized weather controller for FiveM. Synced server authority with robust validation, optional ACE-gated commands, and clean client application without heavy loops.
 
