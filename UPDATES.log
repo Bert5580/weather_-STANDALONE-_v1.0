@@ -1,0 +1,10 @@
+weather v1.1.0 — 2025-10-16
+
+- Full refactor to a lean server-authoritative design
+- Added robust validation & nil-safe helpers
+- Introduced ACE-gated mutation commands (optional)
+- Implemented freeze weather and freeze time toggles
+- Added time control command and current state query
+- Removed unnecessary loops; event-driven client updates
+- Added exports('GetWeatherState') to read state programmatically
+- Cleaned manifests and created detailed README.md
